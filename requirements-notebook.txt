@@ -1,0 +1,4 @@
+# optional, notebook only
+lightgbm>=4.0
+matplotlib>=3.8
+seaborn>=0.13
